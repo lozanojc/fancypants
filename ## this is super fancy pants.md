@@ -1,2 +1,2 @@
-## this is super fancy pants
+## README BRO
 ## this is cuuuuuuupcaaaaaaakeeee
